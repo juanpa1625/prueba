@@ -11,3 +11,5 @@ export const pool =mysql2.createPool({
 
 
 })
+
+//la base de datos se presenta aqui 
